@@ -1,4 +1,10 @@
 ### Hi there 👋
+# Hi 👋, my name is **_Ian_**
+### _I'm a brazilian software engineer_
+
+-  ##### Python
+-  ##### Javascript
+-  ##### JAVA
 
 <!--
 **ianbs/ianbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
