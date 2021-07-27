@@ -1,10 +1,6 @@
 
 # Hi 👋, my name is **_Ian_**
 
--  ##### Python
--  ##### Javascript
-
-
 
 [![IanBS's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianbs&theme=dracula&show_icons=true)](https://github.com/ianbs/github-readme-stats)
 
