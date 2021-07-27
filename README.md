@@ -8,7 +8,7 @@
 
 [![IanBS's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianbs)](https://github.com/ianbs/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianbs&layout=compact&hide=css,html,jupyternotebook)](https://github.com/ianbs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianbs&layout=compact&hide=css,html,php)](https://github.com/ianbs/github-readme-stats)
 
 
 <!--
