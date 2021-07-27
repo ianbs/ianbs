@@ -6,7 +6,7 @@
 
 
 
-[![IanBS's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianbs&theme=dracula)](https://github.com/ianbs/github-readme-stats)
+[![IanBS's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianbs&theme=dracula&show_icons=true)](https://github.com/ianbs/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianbs&layout=compact&hide=css,html,php,jupyter%20notebook&theme=dracula)](https://github.com/ianbs/github-readme-stats)
 
